@@ -34,3 +34,6 @@ override.tf.json
 .terraformrc
 terraform.rc
 dec12-hw/tut_dynamic/.DS_Store
+dec12-hw/tut_dynamic/.DS_Store
+dec12-hw/tut_splt_zapmap/.terraform.lock.hcl
+dec12-hw/tut_dynamic/.DS_Store
