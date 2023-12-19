@@ -3,6 +3,7 @@ resource "aws_instance" "instance" {
     ami = var.ami
     security_groups = var.security_groups
     key_name = var.key_name
+    
 
     connection {
         host = self.public_ip

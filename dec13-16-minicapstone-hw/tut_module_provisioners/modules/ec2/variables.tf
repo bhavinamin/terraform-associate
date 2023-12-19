@@ -12,14 +12,12 @@ variable "key_name" {
   type = string 
 }
 
-variable "key_path" {
+variable key_path {
   type = string
 }
 
-variable "commands" {
-  type = list
-}
-
-variable "security_groups" {
+variable security_groups {
   type = list 
 }
+
+variable commands {}
